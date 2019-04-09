@@ -1,0 +1,7 @@
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\bin\Debug\Selection_3.exe.config
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\bin\Debug\Selection_3.exe
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\bin\Debug\Selection_3.pdb
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\obj\Debug\Selection_3.csproj.CoreCompileInputs.cache
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\obj\Debug\Selection_3.exe
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\obj\Debug\Selection_3.pdb
+E:\Pelatihan\HariKe-18\C sharp Beginnners\C sharp Beginnners\Selection_3\obj\Debug\Selection_3.csprojAssemblyReference.cache
