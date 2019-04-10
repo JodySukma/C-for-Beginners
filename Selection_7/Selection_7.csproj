@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{21E1DCA9-64DD-4FED-847E-68CCE5EEACCC}</ProjectGuid>
+    <ProjectGuid>{0D71AFDA-FA81-418C-886E-AD39C3A308CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Selection_5</RootNamespace>
-    <AssemblyName>Selection_5</AssemblyName>
+    <RootNamespace>Selection_7</RootNamespace>
+    <AssemblyName>Selection_7</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,13 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Condisional.cs" />
-    <Compile Include="Exercise.cs" />
-    <Compile Include="Loops.cs" />
+    <Compile Include="DateAndTime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RandomClass.cs" />
-    <Compile Include="Season.cs" />
+    <Compile Include="TimeSpans.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
