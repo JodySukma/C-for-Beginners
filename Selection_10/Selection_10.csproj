@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8241B3CA-57A1-45F2-9218-A639C1C57F19}</ProjectGuid>
+    <ProjectGuid>{F19DF445-5E71-40C2-955A-1C7E1282FA00}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Selection_9</RootNamespace>
-    <AssemblyName>Selection_9</AssemblyName>
+    <RootNamespace>Selection_10</RootNamespace>
+    <AssemblyName>Selection_10</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DirectoryAndDirectories.cs" />
-    <Compile Include="FileAndFileInfo.cs" />
-    <Compile Include="Paths.cs" />
+    <Compile Include="ExampleDebug1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
